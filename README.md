@@ -4,8 +4,7 @@ Doom PSX Textures
 # STATUS: ✅RELEASED
 
 ## Download:
-- [Texture Pack (for Eternity Engine and ZDoom)](https://github.com/dron12261games/RES-CyberTechTEX/releases/download/v1/CyberTechTEX.zip)
-- [Texture Pack (for Boom)](https://github.com/dron12261games/RES-CyberTechTEX/releases/download/v1/CyberTechTEX.zip)
+- [Texture Pack](https://github.com/dron12261games/RES-PSXTex/releases/download/v1/PSXTex.by.DRON12261.zip)
 
 # Example screenshots:
 ![Screen1](./screens/1.png)
